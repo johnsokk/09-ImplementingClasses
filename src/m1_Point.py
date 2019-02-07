@@ -58,7 +58,7 @@ class Point(object):
         self.x = self.x + dx
         self.y = self.y + dy
     def get_number_of_moves_made(self, x, y):
-        self.x =
+        self.x = x
 
 def run_test_init():
     """
